@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![GitHub Stars](https://img.shields.io/github/stars/tobs-code/mechatronic-prompting?style=social)]
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Stars](https://img.shields.io/github/stars/tobs-code/mechatronic-prompting.svg)](https://github.com/tobs-code/mechatronic-prompting/stargazers)
 
 # Mechatronic Prompting
 
