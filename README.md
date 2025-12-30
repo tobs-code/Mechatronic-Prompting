@@ -96,7 +96,7 @@ documentation, traceability, and compliance artifacts are part of the output sch
 The following systems and frameworks are concrete instantiations of the paradigm and are published separately:
 
 * **SoftPrompt-IR** – symbolic intent and constraint representation → https://github.com/tobs-code/SoftPrompt-IR
-* **ASEV** – Adversarial State Export Validation
+* **ASEV** – Adversarial State Export Validation → https://github.com/tobs-code/Mechatronic-Prompting/blob/main/REFERENCE_PROMPTS/Adversarial_State_Export_Validation-Reference.md
 * **AWDF** – Agent Workflow Diagnosis Framework
 * **HMCF** – Hyper-Modal Cognitive Framework
 
