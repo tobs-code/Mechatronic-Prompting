@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![GitHub Stars](https://img.shields.io/github/stars/tobs-code/mechatronic-prompting?style=social)](https://github.com/tobs-code/mechatronic-prompting/stargazers) [![GitHub Forks](https://img.shields.io/github/forks/tobs-code/mechatronic-prompting?style=social)](https://github.com/tobs-code/mechatronic-prompting/forks) [![GitHub Language](https://img.shields.io/github/languages/top/tobs-code/mechatronic-prompting)](https://github.com/tobs-code/mechatronic-prompting)
+
 # Mechatronic Prompting
 
 ## Founding Document
@@ -139,5 +141,5 @@ Mechatronic Prompting prioritizes **controlled failure** over fluent nonsense.
 
 This paradigm is open for use, study, critique, and extension.
 
-Attribution is appreciated.
+Attribution is required as per Apache 2.0.
 Forks, adversarial testing, and refutations are explicitly welcome.
