@@ -186,13 +186,14 @@ Failure to pass generates **FRAGILITY**, not a Boolean result.
 * Only states, flags, sinks
 
 ASEV does not decide.
+
 **The structure enforces the decision.**
 
 ---
 
-## Fluency is not a success metric.
+# Fluency is not a success metric.
 
-# Passing validation is.
+Passing validation is.
 
 ---
 
@@ -206,9 +207,9 @@ ASEV does not decide.
 > * treat confidence as a claim, not a signal
 > * block export on any unverified state
 
-## ASEV never improves outputs.
+# ASEV never improves outputs.
 
-# It prevents unsafe ones from leaving the system.
+It prevents unsafe ones from leaving the system.
 
 ---
 
@@ -248,6 +249,9 @@ It enforces invariants.
 ASEV does not negotiate.
 It guards the boundary.
 
+---
+
 End of ASEV Reference Validation Agent
+
 
 
