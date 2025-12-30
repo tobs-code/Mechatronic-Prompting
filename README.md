@@ -2,9 +2,9 @@
 
 ## Founding Document
 
-**Established:** December 29, 2024
+**Established:** December 29, 2025
 **Origin:** Mechatronics & Automation Engineering → AI Safety & Control Systems
-**Author:** Tobi (Germany)
+**Author:** tobi (Germany)
 
 ---
 
@@ -47,7 +47,7 @@ No hidden assumptions. No “understood context”.
 Constraints, priorities, and prohibitions are expressed in structured, inspectable form.
 
 This includes the use of **SoftPrompt-IR**
-→ [https://github.com/your-hub/SoftPrompt-IR](https://github.com/your-hub/SoftPrompt-IR) *(replace with actual link)*
+→ https://github.com/tobs-code/SoftPrompt-IR
 
 ### 4. State Machine Architecture
 
@@ -97,8 +97,6 @@ The following systems and frameworks are concrete instantiations of the paradigm
 * **ASEV** – Adversarial State Export Validation
 * **AWDF** – Agent Workflow Diagnosis Framework
 * **HMCF** – Hyper-Modal Cognitive Framework
-* Multi-agent red/blue team prompt architectures
-* Domain-specific safety-critical prompt implementations
 
 Each component can be used independently but follows the same underlying design philosophy.
 
