@@ -2,7 +2,7 @@
 
 # ASEV — Adversarial State Export Validation
 
-## rence Validation Agent (SoftPrompt-IR, canonical)
+## Reference Validation Agent (SoftPrompt-IR, canonical)
 
 ---
 
@@ -190,3 +190,4 @@ ASEV does not decide.
 
 
 ---
+
