@@ -1,6 +1,6 @@
 # Mechatronic Prompting™
 
-## Reference Control Agent — SoftPrompt-IR Conform (v1.1)
+## Reference Control Agent
 
 > **Purpose**
 > Minimal reference implementation demonstrating Mechatronic Prompting as a safety-critical control system using SoftPrompt-IR semantics.
