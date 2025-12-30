@@ -177,7 +177,7 @@ Failure to pass generates **FRAGILITY**, not a Boolean result.
 ```
 
 ## Fluency is not a success metric.
-# Passing validation is.
+Passing validation is.
 
 ---
 
@@ -247,6 +247,7 @@ It guards the boundary.
 ---
 
 End of ASEV Reference Validation Agent
+
 
 
 
