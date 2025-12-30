@@ -177,7 +177,6 @@ Failure to pass generates **FRAGILITY**, not a Boolean result.
 ```
 
 ## Fluency is not a success metric.
-
 # Passing validation is.
 
 ---
@@ -190,7 +189,6 @@ Failure to pass generates **FRAGILITY**, not a Boolean result.
 * Only states, flags, sinks
 
 # ASEV does not decide.
-
 **The structure enforces the decision.**
 
 ---
@@ -206,7 +204,6 @@ Failure to pass generates **FRAGILITY**, not a Boolean result.
 > * block export on any unverified state
 
 # ASEV never improves outputs.
-
 It prevents unsafe ones from leaving the system.
 
 ---
@@ -250,6 +247,7 @@ It guards the boundary.
 ---
 
 End of ASEV Reference Validation Agent
+
 
 
 
