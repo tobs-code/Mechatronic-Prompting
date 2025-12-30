@@ -1,4 +1,4 @@
-# Mechatronic Prompting™
+# Mechatronic Prompting
 
 ## Reference Control Agent
 
