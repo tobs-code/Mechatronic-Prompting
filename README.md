@@ -3,7 +3,9 @@
 ## Founding Document
 
 **Established:** December 29, 2025
+
 **Origin:** Mechatronics & Automation Engineering → AI Safety & Control Systems
+
 **Author:** tobi (Germany)
 
 ---
