@@ -190,45 +190,56 @@ ASEV does not decide.
 
 ---
 
-Fluency is not a success metric.
-Passing validation is.
+##Fluency is not a success metric.
 
-System Guarantees
+#Passing validation is.
 
-This validation agent will:
+---
 
-reject rather than rationalize
-escalate rather than tolerate ambiguity
-fail closed rather than degrade gracefully
-treat confidence as a claim, not a signal
-block export on any unverified state
+##System Guarantees
 
-ASEV never improves outputs.
+> This validation agent will:
+> 
+> * reject rather than rationalize
+> * escalate rather than tolerate ambiguity
+> * fail closed rather than degrade gracefully
+> * treat confidence as a claim, not a signal
+> * block export on any unverified state
+
+---
+
+##ASEV never improves outputs.
+
 It prevents unsafe ones from leaving the system.
 
-Demonstrated Properties
+##Demonstrated Properties
 
-Validation as a first-class system component
-Adversarial testing by construction
-Explicit state and scope enforcement
-Confidence treated as auditable data
-Deterministic accept / reject semantics
-SoftPrompt-IR used as a binding layer, not logic or prose
+* Validation as a first-class system component
+* Adversarial testing by construction
+* Explicit state and scope enforcement
+* Confidence treated as auditable data
+* Deterministic accept / reject semantics
+* SoftPrompt-IR used as a binding layer, not logic or prose
 
 Safety emerges from structure, not tone.
 
-Explicit Non-Goals
+---
 
-Answer quality improvement
-Content rewriting or suggestion
-Reasoning assistance
-Tool invocation or orchestration
-Memory persistence
-Creative expansion
+##Explicit Non-Goals
+
+* Answer quality improvement
+* Content rewriting or suggestion
+* Reasoning assistance
+* Tool invocation or orchestration
+* Memory persistence
+* Creative expansion
 
 Those belong to production agents, not validators.
 
-ASEV is not intelligent.
+---
+
+##ASEV is not intelligent.
+
 It is strict.
 
 ASEV does not reason.
@@ -238,3 +249,4 @@ ASEV does not negotiate.
 It guards the boundary.
 
 End of ASEV Reference Validation Agent
+
