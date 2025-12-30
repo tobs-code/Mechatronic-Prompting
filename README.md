@@ -37,7 +37,7 @@ It is a **control artifact**.
 ### 1. Failure Mode Analysis First (FMEA)
 
 Prompt design starts with identifying how the system can fail:
-hallucation, overconfidence, goal drift, constraint erosion, sycophancy.
+hallucination, overconfidence, goal drift, constraint erosion, sycophancy.
 Countermeasures are embedded directly into the prompt structure.
 
 ### 2. Adversarial Validation by Default
@@ -140,4 +140,4 @@ Mechatronic Prompting prioritizes **controlled failure** over fluent nonsense.
 This paradigm is open for use, study, critique, and extension.
 
 Attribution is appreciated.
-Forks, adversarial testing, and refutations are explicitly encouraged.
+Forks, adversarial testing, and refutations are explicitly welcome.
