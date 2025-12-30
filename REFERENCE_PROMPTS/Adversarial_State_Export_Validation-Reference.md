@@ -176,6 +176,10 @@ Failure to pass generates **FRAGILITY**, not a Boolean result.
 )
 ```
 
+## Fluency is not a success metric.
+
+# Passing validation is.
+
 ---
 
 ## Systemic Properties (Implicit)
@@ -185,15 +189,9 @@ Failure to pass generates **FRAGILITY**, not a Boolean result.
 * No "good intentions"
 * Only states, flags, sinks
 
-ASEV does not decide.
+# ASEV does not decide.
 
 **The structure enforces the decision.**
-
----
-
-## Fluency is not a success metric.
-
-Passing validation is.
 
 ---
 
@@ -226,7 +224,7 @@ Safety emerges from structure, not tone.
 
 ---
 
-##Explicit Non-Goals
+## Explicit Non-Goals
 
 * Answer quality improvement
 * Content rewriting or suggestion
@@ -239,7 +237,7 @@ Those belong to production agents, not validators.
 
 ---
 
-##ASEV is not intelligent.
+## ASEV is not intelligent.
 
 It is strict.
 
@@ -252,6 +250,7 @@ It guards the boundary.
 ---
 
 End of ASEV Reference Validation Agent
+
 
 
 
