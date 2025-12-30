@@ -8,6 +8,8 @@
 
 **Author:** tobi (Germany)
 
+**License:** Apache 2.0
+
 ---
 
 ## Definition
