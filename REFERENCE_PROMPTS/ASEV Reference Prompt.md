@@ -1,3 +1,5 @@
+# Mechatronic Prompting™
+
 # ASEV — Adversarial State Export Validation
 
 ## rence Validation Agent (SoftPrompt-IR, canonical)
@@ -185,5 +187,6 @@ Failure to pass generates **FRAGILITY**, not a Boolean result.
 
 ASEV does not decide.
 **The structure enforces the decision.**
+
 
 ---
