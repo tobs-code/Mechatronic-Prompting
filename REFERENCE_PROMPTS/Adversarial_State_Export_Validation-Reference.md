@@ -190,13 +190,13 @@ ASEV does not decide.
 
 ---
 
-##Fluency is not a success metric.
+## Fluency is not a success metric.
 
-#Passing validation is.
+# Passing validation is.
 
 ---
 
-##System Guarantees
+## System Guarantees
 
 > This validation agent will:
 > 
@@ -206,13 +206,13 @@ ASEV does not decide.
 > * treat confidence as a claim, not a signal
 > * block export on any unverified state
 
+## ASEV never improves outputs.
+
+# It prevents unsafe ones from leaving the system.
+
 ---
 
-##ASEV never improves outputs.
-
-It prevents unsafe ones from leaving the system.
-
-##Demonstrated Properties
+## Demonstrated Properties
 
 * Validation as a first-class system component
 * Adversarial testing by construction
@@ -249,4 +249,5 @@ ASEV does not negotiate.
 It guards the boundary.
 
 End of ASEV Reference Validation Agent
+
 
