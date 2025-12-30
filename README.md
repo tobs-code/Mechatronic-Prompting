@@ -1,4 +1,4 @@
-# Mechatronic Prompting™
+# Mechatronic Prompting
 
 ## Founding Document
 
