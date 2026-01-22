@@ -101,8 +101,6 @@ The following systems and frameworks are concrete instantiations of the paradigm
 
 * **SoftPrompt-IR** – symbolic intent and constraint representation → https://github.com/tobs-code/SoftPrompt-IR
 * **ASEV** – Adversarial State Export Validation → /REFERENCE_PROMPTS/Adversarial_State_Export_Validation-Reference.md
-* **AWDF** – Agent Workflow Diagnosis Framework
-* **HMCF** – Hyper-Modal Cognitive Framework
 
 Each component can be used independently but follows the same underlying design philosophy.
 
